@@ -73,6 +73,11 @@ Column A|Column B
 -|-
 aaa|bbb
 ccc|ddd
+##### Code
+```markdown
+let nombreDeLaVariable = "Bob";
+nombreDeLaVariable = "Steve";
+```
 
 <footer>
 
