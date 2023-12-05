@@ -61,6 +61,7 @@ In this course, you will:
 
 
 ## This is a title chmf
+
 ##### Img
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 ##### Listas
@@ -68,11 +69,13 @@ In this course, you will:
   - Nested
 - Second
 - Third
+- 
 ##### Tablas
 Column A|Column B
 -|-
 aaa|bbb
 ccc|ddd
+
 ##### Code
 ```markdown
 let nombreDeLaVariable = "Bob";
