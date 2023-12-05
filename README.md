@@ -80,6 +80,7 @@ ccc|ddd
 ```markdown
 let nombreDeLaVariable = "Bob";
 nombreDeLaVariable = "Steve";
+console.log('Nombre atualizado',nombreDeLaVariable);
 ```
 
 <footer>
